@@ -44,7 +44,7 @@ function Post({ post }) {
                 </p>
             </div>
        
-            <div className="mt-5">
+            <div className="mt-5 break-all">
                 <PortableText 
                     // dataset={process.env.NEXT_PUBLIC_SANITY_DATASET}
                     // projectId={process.env.NEXT_PUBLIC_SANITY_PROJECT_ID}
